@@ -5,6 +5,7 @@ void main()
   int i;
   do
   {
+    printf("change bloodgroup.c\n");
     printf("What is your name? ");
     scanf("%s", Name);
     do
